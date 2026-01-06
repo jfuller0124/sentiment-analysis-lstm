@@ -18,6 +18,9 @@ This project uses the IMDB movie reviews dataset to train and evaluate sentiment
 
 ## Evaluation
 Models were evaluated using accuracy, precision, recall, and F1-score.
+- LSTM Accuracy: ~89%
+- BiLSTM Accuracy: ~90%
+- RNN Accuracy: ~82%
 
 ## What I Learned
 - Text preprocessing and tokenization
